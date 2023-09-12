@@ -1,0 +1,7 @@
+com\example\demo\song\domain\Song.class
+com\example\demo\DemoApplication.class
+com\example\demo\song\application\SongController.class
+com\example\demo\playlist\domain\Playlist.class
+com\example\demo\playlist\application\PlaylistController.class
+com\example\demo\playlist\domain\PlaylistRepository.class
+com\example\demo\song\domain\SongRepository.class
